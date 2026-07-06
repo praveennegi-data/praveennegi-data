@@ -64,6 +64,32 @@ Business & Data Analytics
 
 ---
 
+# 🚀 Featured Projects
+
+## 🛒 Retail Customer Analytics
+
+➡️ **[View Project](https://github.com/praveennegi-data/Retail_Case_Study)**
+
+---
+
+## 📊 SQL Business Analytics
+
+🚧 Coming Soon
+
+---
+
+## 📈 Power BI Dashboards
+
+🚧 Coming Soon
+
+---
+
+## 🐍 Python Data Analytics
+
+🚧 Coming Soon
+
+
+
 ## 📫 Connect With Me
 
 📧 praveennegi.mca@gmail.com
