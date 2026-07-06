@@ -1,29 +1,72 @@
-# Hi, I'm Praveen Negi 👋
+# Hi there, I'm Praveen Negi 👋
 
-### From Research Analytics to Modern Data Analytics
+## Data Analyst | Python | SQL | Power BI | Research Analytics
 
-For more than 10 years, I've worked at the intersection of data, research, and technology.
+> "Growth begins where comfort ends."
 
-My journey started with designing and developing CAPI (Computer-Assisted Personal Interviewing) applications, building digital survey solutions, managing large-scale data collection, 
-ensuring data quality, and transforming raw information into actionable insights for national and international development projects.
+After spending more than **10 years** in Research & Analytics, I made a conscious decision to step beyond my comfort zone and reinvent my career by mastering **Python, SQL, Power BI, Statistics, and Business Analytics**.
 
-Rather than staying in my comfort zone, I chose to reinvent myself by mastering Python, SQL, Power BI, and modern analytics.
+My journey has never been limited to research. Over the years, I have worked across the complete data lifecycle—from designing and developing **CAPI (Computer-Assisted Personal Interviewing) applications**, managing large-scale data collection, ensuring data quality, and transforming complex datasets into meaningful insights for decision-makers.
 
-Today, I combine domain expertise, business understanding, and technical skills to solve real-world business problems through data.
+Today, I combine my domain expertise with modern analytics tools to solve real business problems through data.
 
-Research & Monitoring
-        │
-        ▼
+---
+
+## 🚀 My Journey
+
+Research & Analytics
+
+⬇️
+
 CAPI Application Development
-        │
-        ▼
+
+⬇️
+
 Data Collection & Quality Assurance
-        │
-        ▼
-Data Analysis & Reporting
-        │
-        ▼
+
+⬇️
+
+Data Management & Reporting
+
+⬇️
+
 Python • SQL • Power BI
-        │
-        ▼
-Modern Data Analyst
+
+⬇️
+
+Business & Data Analytics
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Statistics
+- Git & GitHub
+- SurveyCTO
+- CSPro
+- ODK
+
+---
+
+## 🎯 What I'm Working On
+
+- Retail Customer Analytics
+- SQL Business Case Studies
+- Power BI Executive Dashboards
+- Python for Data Analytics
+- Business Analytics Portfolio
+
+---
+
+## 📫 Connect With Me
+
+📧 praveennegi.mca@gmail.com
+
+🔗 LinkedIn
+https://linkedin.com/in/praveen-negi-data-analyst
