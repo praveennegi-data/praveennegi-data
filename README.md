@@ -1,6 +1,6 @@
-# Hi there, I'm Praveen Negi 👋
+# Hi, I'm Praveen Negi 👋
 
-## Data Analyst | Python | SQL | Power BI | Research Analytics
+## Data Analyst | Business Analytics |CAPI Developer | Python | SQL | Power BI
 
 > "Growth begins where comfort ends."
 
@@ -40,17 +40,17 @@ Business & Data Analytics
 
 ## 🛠 Tech Stack
 
-- Python
-- SQL
-- Power BI
-- Excel
-- Pandas
-- NumPy
-- Statistics
-- Git & GitHub
-- SurveyCTO
-- CSPro
-- ODK
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 📈 Microsoft Excel
+- 🐼 Pandas
+- 🔢 NumPy
+- 📉 Statistics
+- 🌿 Git & GitHub
+- 📋 SurveyCTO
+- 💻 CSPro
+- 📱 ODK
 
 ---
 
