@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Praveen Negi 👋
 
-<!--
-**praveennegi-data/praveennegi-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### From Research Analytics to Modern Data Analytics
 
-Here are some ideas to get you started:
+For more than 10 years, I've worked at the intersection of data, research, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey started with designing and developing CAPI (Computer-Assisted Personal Interviewing) applications, building digital survey solutions, managing large-scale data collection, 
+ensuring data quality, and transforming raw information into actionable insights for national and international development projects.
+
+Rather than staying in my comfort zone, I chose to reinvent myself by mastering Python, SQL, Power BI, and modern analytics.
+
+Today, I combine domain expertise, business understanding, and technical skills to solve real-world business problems through data.
+
+Research & Monitoring
+        │
+        ▼
+CAPI Application Development
+        │
+        ▼
+Data Collection & Quality Assurance
+        │
+        ▼
+Data Analysis & Reporting
+        │
+        ▼
+Python • SQL • Power BI
+        │
+        ▼
+Modern Data Analyst
